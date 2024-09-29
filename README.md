@@ -1,3 +1,4 @@
+![logo](https://github.com/sovanbakshi2004/sovanbakshi2004/blob/main/SOVAN%20BAKSHI.png)
 <h1 align="center">Hi 👋, I'm SOVAN BAKSHI</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
